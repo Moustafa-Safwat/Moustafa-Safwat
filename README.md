@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moustafa Safwat
 =======================================================================================================================================
 
-Software Engineer | .NET Developer | Full Stack Developer | WPF Developer | BIM Developer
+AEC Software Engineer
 -----------------------------------------------------------------------------------------
 
 A talented .NET Developer, Proficient in C#, C++, and C languages, with strong problem-solving skills and a commitment to delivering high-quality applications that meet project requirements and exceed expectations.
 
 * ✉️  You can contact me at [moustafa.safwat.iti.43@gmail.com](mailto:moustafa.safwat.iti.43@gmail.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on .NET Projects ( Full Stack Project, WPF, MVC , BIM Development )
+* 🧠  Currently learning Modular Monolith Architectures
+* 🤝  Open to collaborating on .NET projects, including backend development, WPF, MVC, and BIM solutions
 
 ### Skills
 
